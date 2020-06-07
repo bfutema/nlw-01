@@ -24,11 +24,22 @@
 	<a href="#license">License</a>
 </p>
 
+<h1 align="center">
+	<img alt="Ecoleta Home" src="Home.png" width="900px" />
+</h1>
+<h1 align="center">
+	<img alt="Ecoleta Register Points" src="Points.png" width="900px" />
+</h1>
+<h1 align="center">
+	<img alt="Ecoleta Mobile" src="Mobile.png" width="900px" />
+</h1>
+
 ## :rocket: Technologies
 
 This project are developed with the technologies.
 
-## Back-end
+- Back-end Dependencies
+
 - [Celebrate](https://www.npmjs.com/package/celebrate)
 - [Cors](https://www.npmjs.com/package/cors)
 - [Express](https://expressjs.com/pt-br/)
@@ -36,17 +47,6 @@ This project are developed with the technologies.
 - [Multer](https://www.npmjs.com/package/multer)
 - [Sqlite3](https://www.npmjs.com/package/sqlite3)
 
-## Web
-- [Axios](https://www.npmjs.com/package/axios)
-- [Leaflet](https://leafletjs.com/)
-- [React Dropzone](https://www.npmjs.com/package/react-dropzone)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [React Leaflet](https://react-leaflet.js.org/)
-- [React Router Dom](https://www.npmjs.com/package/react-router-dom)
-
-And contains the development dependencies.
-
-## Back-end
 - [@types/cors](https://www.npmjs.com/package/@types/cors)
 - [@types/express](https://www.npmjs.com/package/@types/express)
 - [@types/hapi__joi](https://www.npmjs.com/package/@types/hapi__joi)
@@ -55,7 +55,15 @@ And contains the development dependencies.
 - [ts-node-dev](https://www.npmjs.com/package/ts-node-dev)
 - [typescript](https://www.npmjs.com/package/typescript)
 
-## Web
+- Web Dependencies
+
+- [Axios](https://www.npmjs.com/package/axios)
+- [Leaflet](https://leafletjs.com/)
+- [React Dropzone](https://www.npmjs.com/package/react-dropzone)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [React Leaflet](https://react-leaflet.js.org/)
+- [React Router Dom](https://www.npmjs.com/package/react-router-dom)
+
 - [@types/react-leaflet](https://www.npmjs.com/package/@types/react-leaflet)
 - [@types/react-router-dom](https://www.npmjs.com/package/@types/react-router-dom)
 
