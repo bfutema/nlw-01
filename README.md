@@ -31,7 +31,9 @@
 	<img alt="Ecoleta Register Points" src="Points.png" width="900px" />
 </h1>
 <h1 align="center">
-	<img alt="Ecoleta Mobile" src="Mobile.png" width="900px" />
+	<img alt="Ecoleta Mobile Initial" src="Mobile_Initial.png" width="300px" />
+	<img alt="Ecoleta Mobile Points" src="Mobile_Points.png" width="300px" />
+	<img alt="Ecoleta Mobile Details" src="Mobile_Detail.png" width="300px" />
 </h1>
 
 ## :rocket: Technologies
